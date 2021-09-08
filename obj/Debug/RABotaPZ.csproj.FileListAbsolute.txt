@@ -1,0 +1,11 @@
+C:\Users\Dmitriy\source\repos\RABotaPZ\RABotaPZ\bin\Debug\RABotaPZ.exe.config
+C:\Users\Dmitriy\source\repos\RABotaPZ\RABotaPZ\bin\Debug\RABotaPZ.exe
+C:\Users\Dmitriy\source\repos\RABotaPZ\RABotaPZ\bin\Debug\RABotaPZ.pdb
+C:\Users\Dmitriy\source\repos\RABotaPZ\RABotaPZ\obj\Debug\RABotaPZ.csproj.AssemblyReference.cache
+C:\Users\Dmitriy\source\repos\RABotaPZ\RABotaPZ\obj\Debug\RABotaPZ.MainForm.resources
+C:\Users\Dmitriy\source\repos\RABotaPZ\RABotaPZ\obj\Debug\RABotaPZ.Properties.Resources.resources
+C:\Users\Dmitriy\source\repos\RABotaPZ\RABotaPZ\obj\Debug\RABotaPZ.csproj.GenerateResource.cache
+C:\Users\Dmitriy\source\repos\RABotaPZ\RABotaPZ\obj\Debug\RABotaPZ.csproj.CoreCompileInputs.cache
+C:\Users\Dmitriy\source\repos\RABotaPZ\RABotaPZ\obj\Debug\RABotaPZ.exe
+C:\Users\Dmitriy\source\repos\RABotaPZ\RABotaPZ\obj\Debug\RABotaPZ.pdb
+C:\Users\Dmitriy\source\repos\RABotaPZ\RABotaPZ\obj\Debug\RABotaPZ.addStudentForm.resources
